@@ -1,5 +1,7 @@
 # Causal Modeling in Machine Learning
 
+A test
+
 这是一个课程和书籍和编译文档，Causal Inference Zero To All.
 
 CS 7290 Special Topics in Data Science
@@ -46,7 +48,7 @@ This course does not require the purchase of textbooks.  However, it will rely h
 * Peters, Jonas, Dominik Janzing, and Bernhard Schölkopf. Elements of causal inference: foundations and learning algorithms. MIT Press, 2017.
 While not necessary for the course, these books are worth buying just to have as a reference.
 
-Another useful reference is Scutari and Denis's _Bayesian networks: with examples in R_, publish Chapman and Hall in 2014.  The book explains fundamental concepts in graphical modeling, Bayesian networks and causal Bayesian networks with examples using the bnlearn package in R.  The bnlearn package is the primary tool for causal discovery in the R community (with no real equivalent in Python), and by extension has become a popular general causal modeling tool as well.  That said, this course does not spend time on causal discovery algorithms and quickly moves beyond Bayes nets, so it may not be worth purchasing this book for this course.
+其它的参考文献还有Denis的Bayesian networks: with examples in R, 由Chapman&Hall 2014年出版。这本书使用R中的bnlearn包解释了图模型建模、贝叶斯网络及因果贝叶斯网络中的实例。此bnlearn包是R社区中做因果发现的主要工具（在Python中尚没有可替代的等效工具）, and by extension has become a popular general causal modeling tool as well.  That said, this course does not spend time on causal discovery algorithms and quickly moves beyond Bayes nets, so it may not be worth purchasing this book for this course.
 
 These are useful for the fundamentals but will be relied on less as the class progresses.  We will focus heavily on papers at that point. 
 
