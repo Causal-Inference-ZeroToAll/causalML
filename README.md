@@ -1,5 +1,7 @@
 # Causal Modeling in Machine Learning
 
+这是一个课程和书籍和编译文档，Causal Inference Zero To All.
+
 CS 7290 Special Topics in Data Science
 Summer 2019
 Prof. Robert Osazuwa Ness
