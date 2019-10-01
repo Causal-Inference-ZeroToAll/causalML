@@ -1,5 +1,7 @@
 # Syllabus and Schedule
 
+这是一个课程和书籍编译项目。
+
 This schedule is subject to adjustment.  Please check frequently to stay updated.  Readings should be read prior to class.
 
 ## Homework schedule
