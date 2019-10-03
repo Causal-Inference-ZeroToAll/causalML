@@ -19,7 +19,7 @@ Northeastern University, Khoury College of Computer Sciences
 
 How can we model and create decision making agents that develop an understanding of their environment? How can we make sure bandit algorithms are led astray by some unexpected influence?  How can we measure the direct impact of a change to systems that serve ads, assign content to a feed, or direct a fleet of drivers impact bids/engagement/rides?  How can we make sure our predictive algorithms are not amplifying biases in the training data in a way that leads to disastrous decision-making?
 
-Causal inference answers these questions by enabling predictions about a system's behavior after an intervention, something not possible even with the most advanced pattern recognition methods alone.  For this reason, the skillful application of causal inference is essential for the success of in-production machine learning at scale.
+因果推断 answers these questions by enabling predictions about a system's behavior after an intervention, something not possible even with the most advanced pattern recognition methods alone.  For this reason, the skillful application of causal inference is essential for the success of in-production machine learning at scale.
 
 This course introduces key ideas in causal inference and how to apply them to areas of machine learning where they have the most impact, such as predicting under intervention, A/B testing, bandit algorithms, reinforcement learning, agent modeling, and improving the performance of machine learning systems using past human-interaction data.  The focus is on how to put these ideas into practice with real-world machine learning systems. 
 
